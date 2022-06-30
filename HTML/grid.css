@@ -1,0 +1,15 @@
+.container-fluid{
+    background-color: blue;
+}
+
+.row{
+    background-color: green;
+}
+
+.col-md-1{
+    background-color: red;
+}
+
+.col-md-11{
+    background-color: yellow;
+}

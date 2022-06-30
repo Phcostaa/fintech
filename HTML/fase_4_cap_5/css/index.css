@@ -1,0 +1,25 @@
+* {
+    padding: 20px 5px;
+    font-family: 'Roboto', sans-serif;
+}
+
+div, body {
+    padding: 0px;
+}
+
+h1 {
+    padding-top: 10px;
+    font-weight: bolder;
+}
+
+.btn {
+    width: 100%;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    cursor: pointer;
+}

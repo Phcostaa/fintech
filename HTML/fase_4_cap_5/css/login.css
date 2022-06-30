@@ -1,0 +1,44 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+    align-items: center;
+}
+
+nav {
+    margin-top: 5px;
+    margin-bottom: 20%;
+}
+
+svg {
+    color: black;
+}
+
+.cadastro {
+    float: right;
+    text-decoration: none;
+    color: black;
+}
+
+.cabecalho {
+    margin-bottom: 80px;
+}
+
+.botao_acesso {
+    margin-top: 10px;
+    background-color: white;
+    border-radius: 10px;
+    font-size: 12px;
+    height: 30px;
+}
+
+.bi-facebook, .bi-google, .bi-envelope-fill {
+    float: left;
+}
+
+footer {
+    font-size: 12px;
+    position: absolute;
+    bottom: 0;
+}
